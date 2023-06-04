@@ -3,7 +3,7 @@
 **Auteur: Lxt3h**
 
 ## Présentation
-Bonjour je m'appelle Bryton BERNARD (Lxt3h), je suis actuellement étudiant à l'école 2600 en 2ème année (équivalent master 1). Etant alternant Reverse Engineer (reverse de protection anti bot) chez Sold Out, j'audit couramment des technologies web. Sur mon temps personnel, je pratique essentiellement du reverse engineering bas niveau.
+Bonjour je m'appelle (Lxt3h), je suis actuellement étudiant à XXXX en 2ème année (équivalent master 1). Etant alternant Reverse Engineer (reverse de protection anti bot), j'audit couramment des technologies web. Sur mon temps personnel, je pratique essentiellement du reverse engineering bas niveau.
 
 Je participe souvent à des CTF pour m'amuser et pour apprendre de nouveau concepts.
 
